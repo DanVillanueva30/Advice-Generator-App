@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [my solution](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub?share=true))
+- Solution URL: [my solution](https://www.frontendmentor.io/solutions/advice-generator-app-qYfxWjpEbp)
 - Live Site URL: [advice generator](https://advice-generattor-app.netlify.app/)
 
 ## My process
